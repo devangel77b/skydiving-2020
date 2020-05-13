@@ -1,0 +1,6 @@
+[submodule "ew496-sp2020-report"]
+	path = ew496-sp2020-report
+	url = git@github.com:skydiving-goat/ew496-sp2020-report.git
+[submodule "ex401-fa2020-proposal"]
+	path = ex401-fa2020-proposal
+	url = git@github.com:skydiving-goat/ex401-fa2020-proposal.git
