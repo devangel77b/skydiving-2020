@@ -4,3 +4,6 @@
 [submodule "ex401-fa2020-proposal"]
 	path = ex401-fa2020-proposal
 	url = git@github.com:skydiving-goat/ex401-fa2020-proposal.git
+[submodule "ew401-fa2020-report"]
+	path = ew401-fa2020-report
+	url = git@github.com:skydiving-goat/ew401-fa2020-report.git
